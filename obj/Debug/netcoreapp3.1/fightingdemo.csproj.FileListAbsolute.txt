@@ -1,0 +1,13 @@
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.exe
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.deps.json
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.runtimeconfig.json
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.runtimeconfig.dev.json
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.dll
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\bin\Debug\netcoreapp3.1\fightingdemo.pdb
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.AssemblyInfoInputs.cache
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.AssemblyInfo.cs
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.csproj.CoreCompileInputs.cache
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.dll
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.pdb
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.genruntimeconfig.cache
+C:\Users\Kaidou\Desktop\DOJO_Assignments\CSharp_June2021\fightingdemo\obj\Debug\netcoreapp3.1\fightingdemo.csproj.AssemblyReference.cache
